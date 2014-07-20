@@ -5,7 +5,8 @@
 #   title      = {Portuguese and Spanish Versions of RadLex: Term Browser and Report Tagging Application},
 #   booktitle  = {Proceedings RSNA 93rd Scientific Assembly and Annual Meeting (RSNA'2007), Chicago, IL},
 #   year       = {2007},
-#   pges      = {835},
+#   pages      = {835},
+#   }
 
 0;rid0;radlex;radlex;radlex;;;;;;;;;;;;;;;;;
 1;rid1;radlex term;termo de radlex;termino del radlex;;;;;;;;;;;;;;;;;
