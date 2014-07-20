@@ -1,5 +1,12 @@
-#Copyright André Castilla 2014
-#Please cite accordingly
+# RadLex Trilingual
+# If you use RadLex Trilingual in scientific publication, we would appreciate citations to the following paper:
+# @inproceedings{RadLex Trilingual,
+#  author     = {A.C. Castilla, A.S. Bacic, S.S. Furuie},
+#   title      = {Portuguese and Spanish Versions of RadLex: Term Browser and Report Tagging Application},
+#   booktitle  = {Proceedings RSNA 93rd Scientific Assembly and Annual Meeting (RSNA'2007), Chicago, IL},
+#   year       = {2007},
+#   pges      = {835},
+
 0;rid0;radlex;radlex;radlex;;;;;;;;;;;;;;;;;
 1;rid1;radlex term;termo de radlex;termino del radlex;;;;;;;;;;;;;;;;;
 3;rid3;anatomic location;posicao anatomica;localizacion anatomica;;;;;;;;;;;;;;;;;
